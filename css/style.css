@@ -70,7 +70,7 @@ a:hover {
 }
 
 footer {
-  margin-top: 100px;
+  margin: 100px auto 0;
   text-align: center;
   width: 100%;
   color: #002F64;
