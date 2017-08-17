@@ -68,3 +68,12 @@ a:hover {
 	width: auto;
     margin-right: auto;
 }
+
+footer {
+  margin-top: 100px;
+  text-align: center;
+  width: 100%;
+  color: #002F64;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
