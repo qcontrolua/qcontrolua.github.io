@@ -69,26 +69,6 @@ a:hover {
     margin-right: auto;
 }
 
-.m {
-	margin-top: -12px;
-	margin-bottom: auto;
-	padding: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	font-size: 14px;
-}
-
-.e {
-	display: inline-flex;
-	margin: auto;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-right: auto;
-	width: auto;
-	padding: 0px;
-	
-}
-
 footer {
   margin: 100px auto 0;
   text-align: center;
