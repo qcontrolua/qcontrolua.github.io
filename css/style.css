@@ -44,14 +44,6 @@ h2 {
   letter-spacing: 4px;
 }
 
-p {
-  margin-top: -5px;
-  margin-bottom: -7px;
-  color: #002F64;
-  font-weight: lighter;
-  font-size: 14px;
-}
-
 img {
   display: flex;
   margin-top: 20px;
@@ -77,12 +69,6 @@ a:hover {
     margin-right: auto;
 }
 
-.m {
-	margin-bottom: 0px;
-	padding: 0px;
-	margin-left: auto;
-	margin-right: auto;
-}
 footer {
   margin: 100px auto 0;
   text-align: center;
