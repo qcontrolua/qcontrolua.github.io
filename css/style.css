@@ -44,6 +44,40 @@ h2 {
   letter-spacing: 4px;
 }
 
+ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+a {text-decoration: none;
+}
+
+.menu ul {
+  display: -webkit-flex; 
+  display: flex;
+  padding-left: 0;
+}
+
+.menu a {
+  padding: 1.5em;
+  padding-top: 1em;
+  padding-left: 0.6em;
+  padding-bottom: 0em;
+  display: inline-block;
+  width: 80%;
+  font-family: 'Ubuntu';
+  color: #002F64;
+  letter-spacing: -0.5px;
+  font-size: 18px;
+  font-weight: 500;
+  border: inherit;
+  opacity: 1;
+}
+
+a:hover {
+ color: #477FAD
+}
+
 img {
   display: flex;
   margin-top: 20px;
