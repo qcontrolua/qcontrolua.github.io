@@ -96,7 +96,7 @@ a {text-decoration: none;
   background: #477FAD;
   transition: .8s;
 }
-.menu-main a:hover:before, .menu-main .current:before {left: -1px;}
+.menu-main a:hover:before, .menu-main .current:before {left: 0px;}
 .menu-main a:hover:after, .menu-main .current:after {right: 0;}   
 @media (max-width: 100%) {
 .menu-main {padding-top: 0;}
